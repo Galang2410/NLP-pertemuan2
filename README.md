@@ -1,3 +1,5 @@
+# Galang Dwiwana Thabrani - 1227050048
+
 # Review Artikel: A Novel Efficient and Effective Preprocessing Algorithm for Text Classification
 
 Artikel *“A Novel Efficient and Effective Preprocessing Algorithm for Text Classification”* (Zhu & Luo, 2023) membahas strategi preprocessing baru yang memadukan teknik dasar (tokenisasi, konversi huruf kecil, filtering, dan stopword removal) dengan **Orthogonal Matching Pursuit (OMP)**. Hasilnya adalah pendekatan **Preprocessing Bag of Words (PBOW)** yang terbukti mampu mengurangi dimensi fitur, meningkatkan akurasi, serta mempercepat waktu komputasi dibanding metode baseline pada tugas klasifikasi teks.
